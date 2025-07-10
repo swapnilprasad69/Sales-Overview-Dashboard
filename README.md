@@ -19,7 +19,7 @@ The dashboard presents:
 ## 📌 Dashboard Pages (Screenshots)
 
 ### Page 1 - KPIs and Trends
-![Dashboard Overview](asset/.png)
+![Dashboard Overview](asset/1.png)
 
 ### Page 2 - State-level Geo Analysis
 ![Map View](asset/2.png)
