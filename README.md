@@ -19,13 +19,13 @@ The dashboard presents:
 ## 📌 Dashboard Pages (Screenshots)
 
 ### Page 1 - KPIs and Trends
-![Dashboard Overview](assets/dashboard-page1.png)
+![Dashboard Overview](asset/.png)
 
 ### Page 2 - State-level Geo Analysis
-![Map View](assets/dashboard-page2.png)
+![Map View](asset/2.png)
 
 ### Page 3 - Deep Dive: Region & Products
-![Detailed View](assets/dashboard-page3.png)
+![Detailed View](asset/3.png)
 
 ---
 
