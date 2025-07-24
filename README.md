@@ -1,4 +1,4 @@
-# Sales-Overview-Dashboard
+# Superstore Sales Analysis Dashboard (USA Regions & Categories)
 
 This project is an interactive Power BI dashboard built to analyze and visualize sales performance across regions, product categories, and time. It offers key business insights using intuitive visualizations, slicers, and maps — designed without any paid Power BI services.
 
